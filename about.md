@@ -4,6 +4,6 @@ title: about
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+hello! i'm lauren, a phd student studying sociology at the university of chicago. i like to think about social and personal healing, the systems, structures, and ideologies that inspire, inhibit, and make real this healing, and the various ways we can come together across time and space to make sense of this process.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+i've put together this site as a way to organize and share my own thoughts interests, and reflections. i'm always open to discussing more and am oriented towards ways to build relationships with others grappling with similar questions.

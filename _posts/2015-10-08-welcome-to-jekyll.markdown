@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "post 3"
 date:   2015-10-08 15:39:40
 preview: holder.js/300x300?auto=yes
 ---
