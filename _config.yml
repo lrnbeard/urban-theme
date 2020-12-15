@@ -1,13 +1,23 @@
 # Site settings
 title: lauren beard
+
 email: lrnbeard@gmail.com
+
 description: > # this means to ignore newlines until "baseurl:"
   working on learning how to build a personal website :).
-baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
+
+baseurl: "" # the subpath of your site, e.g. /blog
+#### NOTE THAT THIS USED TO BE "/urban-theme"
+
 url: "http://lauren-beard.com" # the base hostname & protocol for your site
+
 twitter_username: lrnbeard
 github_username:  lrnbeard
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-pdf-embed

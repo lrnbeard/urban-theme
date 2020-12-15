@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "post 2"
+title:  "dreams, mary oliver"
 date:   2015-10-07 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: assets/IMG_6354.CR2.output.jpg
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
-
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+![Picture 2](assets/dreams_proj2.png)
